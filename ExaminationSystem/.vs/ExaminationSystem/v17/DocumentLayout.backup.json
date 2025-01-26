@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\3-c#\\day04\\day04task\\examinationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\3-c#\\day04\\day04task\\examinationsystem\\truefalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|solutionrelative:truefalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\3-c#\\day04\\day04task\\examinationsystem\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|solutionrelative:finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\3-c#\\day04\\day04task\\examinationsystem\\chooseallanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|solutionrelative:chooseallanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\3-c#\\day04\\day04task\\examinationsystem\\chooseoneanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|solutionrelative:chooseoneanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\3-c#\\day04\\day04task\\examinationsystem\\truefalseanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|solutionrelative:truefalseanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\3-c#\\day04\\day04task\\examinationsystem\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|solutionrelative:answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\3-c#\\day04\\day04task\\examinationsystem\\chooseallquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|solutionrelative:chooseallquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\3-c#\\day04\\day04task\\examinationsystem\\chooseonequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|solutionrelative:chooseonequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\3-c#\\day04\\day04task\\examinationsystem\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|solutionrelative:question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\3-c#\\day04\\day04task\\examinationsystem\\practiceexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|solutionrelative:practiceexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\3-c#\\day04\\day04task\\examinationsystem\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|solutionrelative:exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|e:\\intern \u0026 courses\\iti 4-months\\backend\\3-c#\\day04\\day04task\\examinationsystem\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F542F8-A82D-4BFD-91DE-FD311EBEAF46}|ExaminationSystem.csproj|solutionrelative:subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 288,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAQwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:12:57.835Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\Exam.cs",
+              "RelativeDocumentMoniker": "Exam.cs",
+              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\Exam.cs",
+              "RelativeToolTip": "Exam.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:13:05.036Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FinalExam.cs",
+              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\FinalExam.cs",
+              "RelativeDocumentMoniker": "FinalExam.cs",
+              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\FinalExam.cs",
+              "RelativeToolTip": "FinalExam.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:13:08.351Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PracticeExam.cs",
+              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\PracticeExam.cs",
+              "RelativeDocumentMoniker": "PracticeExam.cs",
+              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\PracticeExam.cs",
+              "RelativeToolTip": "PracticeExam.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:13:11.346Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Question.cs",
+              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\Question.cs",
+              "RelativeDocumentMoniker": "Question.cs",
+              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\Question.cs",
+              "RelativeToolTip": "Question.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:13:15.452Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrueFalseQuestion.cs",
+              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\TrueFalseQuestion.cs",
+              "RelativeDocumentMoniker": "TrueFalseQuestion.cs",
+              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\TrueFalseQuestion.cs",
+              "RelativeToolTip": "TrueFalseQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:13:32.216Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChooseOneQuestion.cs",
+              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\ChooseOneQuestion.cs",
+              "RelativeDocumentMoniker": "ChooseOneQuestion.cs",
+              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\ChooseOneQuestion.cs",
+              "RelativeToolTip": "ChooseOneQuestion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:13:37.007Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChooseAllQuestion.cs",
+              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\ChooseAllQuestion.cs",
+              "RelativeDocumentMoniker": "ChooseAllQuestion.cs",
+              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\ChooseAllQuestion.cs",
+              "RelativeToolTip": "ChooseAllQuestion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:13:35.003Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\Answer.cs",
+              "RelativeDocumentMoniker": "Answer.cs",
+              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\Answer.cs",
+              "RelativeToolTip": "Answer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:13:42.711Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrueFalseAnswer.cs",
+              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\TrueFalseAnswer.cs",
+              "RelativeDocumentMoniker": "TrueFalseAnswer.cs",
+              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\TrueFalseAnswer.cs",
+              "RelativeToolTip": "TrueFalseAnswer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwBgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:13:49.284Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChooseOneAnswer.cs",
+              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\ChooseOneAnswer.cs",
+              "RelativeDocumentMoniker": "ChooseOneAnswer.cs",
+              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\ChooseOneAnswer.cs",
+              "RelativeToolTip": "ChooseOneAnswer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA1wCIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:13:58.828Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChooseAllAnswer.cs",
+              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\ChooseAllAnswer.cs",
+              "RelativeDocumentMoniker": "ChooseAllAnswer.cs",
+              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\ChooseAllAnswer.cs",
+              "RelativeToolTip": "ChooseAllAnswer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:14:02.728Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\Subject.cs",
+              "RelativeDocumentMoniker": "Subject.cs",
+              "ToolTip": "E:\\Intern \u0026 Courses\\iTi 4-Months\\Backend\\3-C#\\Day04\\Day04Task\\ExaminationSystem\\Subject.cs",
+              "RelativeToolTip": "Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:14:07.762Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
